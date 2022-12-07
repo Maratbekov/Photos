@@ -1,0 +1,40 @@
+.PhotoItemCard {
+    background: blue;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.blockTitle {
+   display: flex;
+   justify-content: space-around;
+   padding: 20px;
+}
+
+.title {
+    width: 189px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    
+}
+
+
+.id {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background: red;
+    color: white;
+    font-size: 33px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.8rem;
+    
+    align-items: flex-end;
+}
